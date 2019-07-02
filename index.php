@@ -1,6 +1,6 @@
 <?php
 
-	echo "Hello World";
+	echo "Olá Mundo";
 
 	// git commit -m "o que vc quiser commitar" - realiza um comentário no seu código.
 	// git add --all - Adiciona todos os arquivos presentes na sua pasta.
